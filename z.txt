@@ -1,0 +1,10 @@
+    "next": "12.1.6",
+    
+    https://openweathermap.org/
+    https://openweathermap.org/current#name
+
+    https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
+
+    npm i axios
+    npm i react-icon
+    
